@@ -1,0 +1,7 @@
+<ZRF094_Anemometer.model>
+	<castsShadow>	true	</castsShadow>
+	<parent>	PnFMods/HLV_Koyori_Rahmat_Mod/ZSC106_Rahmat/radar/lods/ZRF094_Anemometer_lod1	</parent>
+	<extent>	3.0000	</extent>
+	<nodefullVisual>	PnFMods/HLV_Koyori_Rahmat_Mod/ZSC106_Rahmat/radar/ZRF094_Anemometer	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</ZRF094_Anemometer.model>

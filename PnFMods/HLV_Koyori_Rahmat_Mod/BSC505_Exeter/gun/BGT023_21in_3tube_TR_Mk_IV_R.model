@@ -1,0 +1,7 @@
+<BGT023_21in_3tube_TR_Mk_IV_R.model>
+	<castsShadow>	true	</castsShadow>
+	<parent>	PnFMods/HLV_Koyori_Rahmat_Mod/BSC505_Exeter/gun/lods/BGT023_21in_3tube_TR_Mk_IV_R_lod1	</parent>
+	<extent>	5.0000	</extent>
+	<nodefullVisual>	PnFMods/HLV_Koyori_Rahmat_Mod/BSC505_Exeter/gun/BGT023_21in_3tube_TR_Mk_IV_R	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</BGT023_21in_3tube_TR_Mk_IV_R.model>

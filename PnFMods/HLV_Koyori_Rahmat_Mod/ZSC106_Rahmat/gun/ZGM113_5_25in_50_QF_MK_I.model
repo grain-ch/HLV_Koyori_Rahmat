@@ -1,0 +1,7 @@
+<ZGM113_5_25in_50_QF_MK_I.model>
+	<castsShadow>	true	</castsShadow>
+	<parent>	PnFMods/HLV_Koyori_Rahmat_Mod/ZSC106_Rahmat/gun/lods/ZGM113_5_25in_50_QF_MK_I_lod1	</parent>
+	<extent>	4.0000	</extent>
+	<nodefullVisual>	PnFMods/HLV_Koyori_Rahmat_Mod/ZSC106_Rahmat/gun/ZGM113_5_25in_50_QF_MK_I	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</ZGM113_5_25in_50_QF_MK_I.model>
