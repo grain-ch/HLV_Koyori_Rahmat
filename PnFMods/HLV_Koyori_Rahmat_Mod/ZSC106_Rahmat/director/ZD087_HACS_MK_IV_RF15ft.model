@@ -1,7 +1,6 @@
 <ZD087_HACS_MK_IV_RF15ft.model>
-	<castsShadow>	true	</castsShadow>
-	<parent>	PnFMods/HLV_Koyori_Rahmat_Mod/ZSC106_Rahmat/director/lods/ZD087_HACS_MK_IV_RF15ft_lod1	</parent>
-	<extent>	4.0000	</extent>
-	<nodefullVisual>	PnFMods/HLV_Koyori_Rahmat_Mod/ZSC106_Rahmat/director/ZD087_HACS_MK_IV_RF15ft	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
+	<visual>	PnFMods/HLV_Koyori_Rahmat_Mod/ZSC106_Rahmat/director/ZD087_HACS_MK_IV_RF15ft.visual	</visual>
+	<animations />
+	<dyes />
+	<metaData>	Wargaming.net	</metaData>
 </ZD087_HACS_MK_IV_RF15ft.model>

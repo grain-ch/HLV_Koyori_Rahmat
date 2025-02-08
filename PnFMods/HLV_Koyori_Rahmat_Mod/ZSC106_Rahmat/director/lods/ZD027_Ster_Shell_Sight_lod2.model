@@ -1,7 +1,0 @@
-<ZD027_Ster_Shell_Sight_lod2.model>
-	<castsShadow>	true	</castsShadow>
-	<parent>	PnFMods/HLV_Koyori_Rahmat_Mod/ZSC106_Rahmat/director/lods/ZD027_Ster_Shell_Sight_lod3	</parent>
-	<extent>	7.0000	</extent>
-	<nodefullVisual>	PnFMods/HLV_Koyori_Rahmat_Mod/ZSC106_Rahmat/director/lods/ZD027_Ster_Shell_Sight_lod2	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
-</ZD027_Ster_Shell_Sight_lod2.model>

@@ -1,7 +1,6 @@
 <ZD091_14in_DCT_main.model>
-	<castsShadow>	true	</castsShadow>
-	<parent>	PnFMods/HLV_Koyori_Rahmat_Mod/ZSC106_Rahmat/director/lods/ZD091_14in_DCT_main_lod1	</parent>
-	<extent>	3.0000	</extent>
-	<nodefullVisual>	PnFMods/HLV_Koyori_Rahmat_Mod/ZSC106_Rahmat/director/ZD091_14in_DCT_main	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
+	<visual>	PnFMods/HLV_Koyori_Rahmat_Mod/ZSC106_Rahmat/director/ZD091_14in_DCT_main.visual	</visual>
+	<animations />
+	<dyes />
+	<metaData>	Wargaming.net	</metaData>
 </ZD091_14in_DCT_main.model>

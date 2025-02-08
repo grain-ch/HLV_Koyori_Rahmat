@@ -1,7 +1,8 @@
 <ZRF094_Anemometer.model>
-	<castsShadow>	true	</castsShadow>
-	<parent>	PnFMods/HLV_Koyori_Rahmat_Mod/ZSC106_Rahmat/radar/lods/ZRF094_Anemometer_lod1	</parent>
-	<extent>	3.0000	</extent>
-	<nodefullVisual>	PnFMods/HLV_Koyori_Rahmat_Mod/ZSC106_Rahmat/radar/ZRF094_Anemometer	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
+	<visual>	PnFMods/HLV_Koyori_Rahmat_Mod/ZSC106_Rahmat/radar/ZRF094_Anemometer.visual	</visual>
+	<animations>
+		<animation>	content/animation_state_machines/gameplay/panasia/radar/fcontrol/ZRF094_Anemometer/ZRF094_Anemometer.ssm	</animation>
+	</animations>
+	<dyes />
+	<metaData>	Wargaming.net	</metaData>
 </ZRF094_Anemometer.model>
